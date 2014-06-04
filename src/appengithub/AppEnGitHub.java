@@ -15,6 +15,7 @@ public class AppEnGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola mundo");
+        String sms="Hola mundo";        
+        System.out.println("hash code: "+sms.hashCode());
     }
 }
